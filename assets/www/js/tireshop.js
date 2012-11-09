@@ -1,4 +1,4 @@
-Parse.initialize("zOo3i7EACHMZfYwernLCmbFUaMVX3TDIM2jVufli", "Ps7QM4Ylhtz7Ex3JWGVw83gD0WSJt5CuiUNGIB6A");
+Parse.initialize("Ti2TFQTWv0P1QBzSERj1DieTWBaMACi9K51FDzX9", "CqyI2RBHcmke3hIJU5nWtLY9GnvoTsVQyodlq965");
 Shops = Parse.Object.extend("Shops");
 
 var cloc
